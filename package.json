@@ -1,6 +1,6 @@
 {
   "name": "grunt-to-double-quotes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replaces single ( escaped or otherwise ) quotes with double quotes.",
   "homepage": "https://github.com/kuatsure/grunt-to-double-quotes",
   "repository": {
