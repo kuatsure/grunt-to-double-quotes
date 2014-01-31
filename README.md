@@ -1,5 +1,7 @@
 # grunt-to-double-quotes
 
+[![Build Status](https://travis-ci.org/kuatsure/grunt-to-double-quotes.png?branch=master)](https://travis-ci.org/kuatsure/grunt-to-double-quotes) [![Dependency Status](https://david-dm.org/kuatsure/grunt-to-double-quotes.png?theme=shields.io)](https://david-dm.org/kuatsure/grunt-to-double-quotes) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 > Replaces single ( escaped or otherwise ) quotes with double quotes.
 
 ## Getting Started
